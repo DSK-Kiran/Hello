@@ -1,10 +1,12 @@
-#include<iostream.h>
+#include<iostream>
+using namespace std
+
 class hello
 {
 public:
 void print()
 {
-cout<<"Hello world"
+cout<<"Hello world";
 }
 };
 int main()
